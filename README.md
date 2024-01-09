@@ -1,8 +1,8 @@
 👋 Hi, I’m Stephanie
 
-👀 I’m interested in making meaningful insights for practical decisions.
+👀 I’m interested in making meaningful insights for practical data-driven decisions.
 
-🌱 I recently completed a data science intensive bootcamp through Springboard to hone my data science skills.
+🌱 I'm currently working as an analyst.
 
 <!---
 scho-git/scho-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
